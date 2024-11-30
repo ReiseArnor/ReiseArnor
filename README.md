@@ -1,9 +1,9 @@
 ## Hi there 👋
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-git-master-odanis-esqueas-projects.vercel.app/api?username=ReiseArnor&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" />
+  <img height=300 align="center" src="https://github-readme-stats-git-master-odanis-esqueas-projects.vercel.app/api?username=ReiseArnor&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-git-master-odanis-esqueas-projects.vercel.app/api/top-langs/?username=ReiseArnor&langs_count=20&layout=compact&card_width=320" />
+  <img height=300 align="center" src="https://github-readme-stats-git-master-odanis-esqueas-projects.vercel.app/api/top-langs/?username=ReiseArnor&langs_count=20&layout=compact&card_width=320" />
 </a>
 
 <!--
