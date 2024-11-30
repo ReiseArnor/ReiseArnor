@@ -1,6 +1,6 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats-git-master-odanis-esqueas-projects.vercel.app/api?username=ReiseArnor)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Odanis' GitHub stats](https://github-readme-stats-git-master-odanis-esqueas-projects.vercel.app/api?username=ReiseArnor)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-master-odanis-esqueas-projects.vercel.app/api/top-langs/?username=ReiseArnor)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ReiseArnor/ReiseArnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
