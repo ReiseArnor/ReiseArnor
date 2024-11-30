@@ -1,6 +1,11 @@
 ## Hi there 👋
-[![Odanis' GitHub stats](https://github-readme-stats-git-master-odanis-esqueas-projects.vercel.app/api?username=ReiseArnor&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-git-master-odanis-esqueas-projects.vercel.app/api/top-langs/?username=ReiseArnor&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-git-master-odanis-esqueas-projects.vercel.app/api?username=ReiseArnor&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-git-master-odanis-esqueas-projects.vercel.app/api/top-langs/?username=ReiseArnor&langs_count=20&layout=compact&card_width=320" />
+</a>
+
 <!--
 **ReiseArnor/ReiseArnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
