@@ -2,6 +2,8 @@
 
 Welcome to my GitHub! I'm a passionate software engineer and problem-solver with a love for building scalable, efficient, and maintainable solutions.  
 
+---
+
 ## About Me  
 - 💻 **Passionate Technologist**: I specialize in leveraging modern tools and frameworks to build scalable, efficient, and innovative solutions. I’m driven by a commitment to quality and growth.   
 - 📚 **Lifelong Learner**: Always exploring new technologies, from headless CMS setups to API optimizations with NestJS and Express.js.  
