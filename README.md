@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi 👋, I'm Odanis Esquea
+
+Welcome to my GitHub! I'm a passionate software engineer and problem-solver with a love for building scalable, efficient, and maintainable solutions.  
+
+## About Me  
+- 💻 **Passionate Technologist**: I specialize in leveraging modern tools and frameworks to build scalable, efficient, and innovative solutions. I’m driven by a commitment to quality and growth.   
+- 📚 **Lifelong Learner**: Always exploring new technologies, from headless CMS setups to API optimizations with NestJS and Express.js.  
+- 🛠 **Organized Builder**: Skilled in monorepo management, TypeScript configurations, and creating seamless CI/CD pipelines.  
+- 🌐 **Web and Cloud Expert**: With tools like Coolify, Nginx, and Cloudflare, I ensure robust, secure, and scalable deployments.
+  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=300 align="center" src="https://github-readme-stats-git-master-odanis-esqueas-projects.vercel.app/api?username=ReiseArnor&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" />
 </a>
@@ -28,7 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" title="PostgreSQL" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" width="40" height="40" title="Redis" alt="Redis"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" title="Git" alt="Git"/>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40" title="Docker" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" height="40" title="Github Actions" alt="Github Actions"/>     
