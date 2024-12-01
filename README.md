@@ -50,7 +50,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" width="40" height="40" title="Jekyll" alt="Jekyll"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="40" height="40" title="Unreal Engine" alt="Unreal Engine"/>
 </div>
+
 ---
+
 | 🎵 Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | <a href="https://natemoo-re-git-master-odanis-esqueas-projects.vercel.app/now-playing?open"><img src="https://natemoo-re-git-master-odanis-esqueas-projects.vercel.app/now-playing" width="540" height="64"></a> |
