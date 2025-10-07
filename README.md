@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a passionate software engineer and problem-solver with
   <img height=300 align="center" src="https://github-readme-stats-git-master-odanis-esqueas-projects.vercel.app/api/top-langs/?username=ReiseArnor&theme=radical&langs_count=20&layout=compact&card_width=320" />
 </a>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=bear)
 
 ---
 
