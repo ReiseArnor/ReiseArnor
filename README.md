@@ -61,7 +61,7 @@ Welcome to my GitHub! I'm a passionate software engineer and problem-solver with
 </div>
 
 ---
-
+### 🏆 Github Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ReiseArnor&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
@@ -91,18 +91,3 @@ Welcome to my GitHub! I'm a passionate software engineer and problem-solver with
     </tr>
   </tbody>
 </table>
-
-<!--
-**ReiseArnor/ReiseArnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
