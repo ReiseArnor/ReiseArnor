@@ -65,7 +65,7 @@ Welcome to my GitHub! I'm a passionate software engineer and problem-solver with
 [![trophy](https://github-profile-trophy.vercel.app/?username=ReiseArnor&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-
+### Music:
 | 🎵 Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | <a href="https://natemoo-re-git-master-odanis-esqueas-projects.vercel.app/now-playing?open"><img src="https://natemoo-re-git-master-odanis-esqueas-projects.vercel.app/now-playing" width="540" height="64"></a> |
