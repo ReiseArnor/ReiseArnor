@@ -62,7 +62,7 @@ Welcome to my GitHub! I'm a passionate software engineer and problem-solver with
 
 ---
 ### 🏆 Github Trophies:
-[![trophy](https://github-profile-trophy-croqqd0ck-odanis-esqueas-projects.vercel.app/?username=ReiseArnor&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-five-lilac.vercel.app/?username=ReiseArnor&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 ### Music:
